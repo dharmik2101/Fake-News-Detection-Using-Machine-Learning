@@ -9,6 +9,9 @@ This project includes:
 - Word cloud and frequency bar chart visualizations
 - Machine learning models for classification (Logistic Regression and Decision Tree)
 
+## Dataset
+   https://www.kaggle.com/datasets/subho117/fake-news-detection-using-machine-learning
+
 ## Setup
 1. **Clone the repository**:
    ```bash
